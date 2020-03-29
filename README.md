@@ -5,4 +5,4 @@
   <img  src="https://media.giphy.com/media/h7XzUYKEjdmDlZsCDH/giphy.gif">
 </p>
 
-You can download this app from here : https://drive.google.com/open?id=1gjVyo3ltD86HIWiPTtSg0L-AeW7AT1Wj
+You can download this app from here : https://bit.ly/2Uppvy9

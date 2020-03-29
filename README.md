@@ -6,5 +6,5 @@
 </p>
 
 <p align = "center>
-            <b>You can download this app from here :</b> https://bit.ly/2Uppvy9
+            You can download this app from here : https://bit.ly/2Uppvy9
             </p>

@@ -1,4 +1,4 @@
-# ImageClassifierTensorflowLite
+# Image Classifier Tensorflow Lite
  
  
   <p align="center">
@@ -6,5 +6,5 @@
 </p>
 
 <p align = "center>
-            <h1>You can download this app from here : https://bit.ly/2Uppvy9</h1>
+            <h1>You can download this app from here :</h1> https://bit.ly/2Uppvy9
             </p>

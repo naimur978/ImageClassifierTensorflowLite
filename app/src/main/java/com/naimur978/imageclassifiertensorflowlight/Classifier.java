@@ -11,20 +11,8 @@ public interface Classifier {
     class Recognition {
 
         private final String id;
-
-        /**
-         * Display name for the recognition.
-         */
         private final String title;
-
-        /**
-         * Whether or not the model features quantized or float weights.
-         */
         private final boolean quant;
-
-        /**
-         * A sortable score for how good the recognition is relative to others. Higher should be better.
-         */
         private final Float confidence;
 
         public Recognition(

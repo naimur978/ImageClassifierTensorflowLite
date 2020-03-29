@@ -3,8 +3,7 @@ package com.naimur978.imageclassifiertensorflowlight;
 import android.Manifest;
 import android.content.pm.PackageManager;
 import android.graphics.Bitmap;
-import android.media.Image;
-import android.os.Build;
+
 import android.os.Bundle;
 
 import android.text.method.ScrollingMovementMethod;
@@ -30,7 +29,6 @@ import java.util.concurrent.Executor;
 import java.util.concurrent.Executors;
 
 
-import de.mrapp.android.dialog.MaterialDialog;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -49,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
     private ImageView imageViewResult;
     private CameraView cameraView;
 
-    String abc;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
